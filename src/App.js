@@ -4,7 +4,9 @@ import { StyleSheet, Text, View } from "react-native";
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>🚀 App Inventario Comidas R</Text>
+      <Text style={styles.title}>
+        🚀 Porfin funciona App Inventario Comidas R
+      </Text>
       <Text>¡Bienvenido a tu proyecto con Expo!</Text>
       <StatusBar style="auto" />
     </View>
